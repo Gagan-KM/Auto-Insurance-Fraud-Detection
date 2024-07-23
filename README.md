@@ -5,4 +5,4 @@ In today's world, the surge in criminal activities demands advanced solutions. F
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Full project is in ZIP file and if you experience any error while loading the project or file, i have uploaded alternate files in this repository you can use that in your project.
-Feel free to contact me for any enquiry about the project by dropping an dm on linkedin.
+Feel free to contact me for any enquiry about the project by dropping a dm on linkedin.
